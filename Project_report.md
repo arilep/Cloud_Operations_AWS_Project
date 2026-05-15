@@ -124,6 +124,8 @@ bluematador. AWS CLI Cheatsheet. https://www.bluematador.com/learn/aws-cli-cheat
 
 ChatGPT. Koodin ja tekstin oikoluku tekoälyllä. "Review this code for errors and suggest fixes".
 
+Diagrams.net. Flowchart Maker and Online Diagram Software. https://app.diagrams.net/
+
 hashicorp. InsufficientS3BucketPolicyException. https://github.com/hashicorp/terraform/issues/6388
 
 Heinonen, J. Cloud Operations AWS -opintojakson esitysmateriaali Moodlessa. Haaga-Helia ammattikorkeakoulu.
